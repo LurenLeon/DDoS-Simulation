@@ -5,3 +5,5 @@ analyze the packet output within the tracer file. I have analyzed my results wit
 python script that kept track of sent packets and dropped packets from each user node during
 each second of the simulation. Using the given network topology for the assignment I created a
 situation where I could maximize degradation with 8 bots.
+
+Using NS2 to simulate a link-flooding DDoS attack on a small network.
